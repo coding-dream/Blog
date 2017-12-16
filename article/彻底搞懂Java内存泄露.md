@@ -1,14 +1,3 @@
----
-layout: post
-title: 彻底搞懂Java内存泄露
-date: 2017-10-21 12:34:15
-tags: 
-  - 内存泄露
-  - 内部类
-  - 性能优化
-categories: 性能优化
----
-
 >简书 [编程之乐](http://www.jianshu.com/u/79a88a044955)
 转载请注明原创出处，谢谢！
 
@@ -673,3 +662,5 @@ public class TestActivity extends Activity {
     }
 }
 ```
+
+

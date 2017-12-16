@@ -9,7 +9,7 @@ Launcher也是一个应用程序，和我们的App没有什么区别，当用户
 
 先来张图：
 
-![Android7.0应用启动过程-Launcher源码浅析](../images/b62a5a4a223f755b3179dc9f46fa7e8b.png)
+![Android7.0应用启动过程-Launcher源码浅析](http://upload-images.jianshu.io/upload_images/1281543-ac866a0b7673a9d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 在线源码地址
 [AndroidManifest.xml](http://androidxref.com/7.1.1_r6/xref/packages/apps/Launcher3/AndroidManifest.xml)
