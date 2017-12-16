@@ -1025,7 +1025,7 @@ private Activity performLaunchActivity(ActivityClientRecord r, Intent customInte
 从上面的执行流程：我们发现Application会创建一个appContext，一个Activity会创建一个Context，(一个Service也会创建一个Context)，那么一个应用中 `Context的总数 = Activity对象数 + Service对象数 + 1个Application对象`。四大组件中的BroadcastReciver和ContentProvider的Context都是直接或间接来自于 Application，Activity，Service。
 
 最后找来自己参考过的一种博主画的图，和我的流程差不多，盗图一张！
-![image.png](images/ead4308fbb7dbc89db4b8b849e34a589.png)
+![image.png](../images/ead4308fbb7dbc89db4b8b849e34a589.png)
 
 **相关补充说明**
 ActivityStack ：Android 中的 Activity 组件堆栈信息，也就是 Task。
