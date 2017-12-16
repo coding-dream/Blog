@@ -1,0 +1,29 @@
+---
+title: 关于
+date: 2016-09-26 14:13:35
+---
+
+## About Me
+![](/images/coding.jpg)
+* 性别：男
+* 学历：本科
+* 博客: http://www.jianshu.com/
+* Github: https://github.com/wangli0
+* E-mail: wangpipic@163.com
+* 爱好: 钻研/分享/音乐/电影
+
+## 技能
+* JavaEE
+* Android
+* JavaFX
+* PHP
+* Python
+* Git
+* NDK
+* JavaScript
+* C/C++
+* MySQL
+* Chrome扩展
+
+如果您认为有合适我的Android 或 Java 工作岗位，您可以发 Email 给我：[wangpipic@163.com](wangpipic@163.com)
+
